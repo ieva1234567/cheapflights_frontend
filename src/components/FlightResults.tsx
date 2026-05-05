@@ -1,5 +1,5 @@
 import React from 'react';
-import { Plane, Calendar, Clock, Euro, MapPin } from 'lucide-react';
+import { Plane, Clock, Euro, MapPin } from 'lucide-react';
 
 interface Flight {
   id: string;
